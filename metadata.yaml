@@ -1,0 +1,46 @@
+_repo: Essay-upon-Wit_13484
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Boys, Richard Charles
+    birthdate: 1912
+    gutenberg_agent_id: '5084'
+    url: http://www.gutenberg.org/2009/agents/5084
+  commentator:
+    agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: 1672
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackmore, Richard, Sir
+    alias: Blackmore, Sir Richard
+    birthdate: 1650
+    deathdate: 1729
+    gutenberg_agent_id: '5072'
+    url: http://www.gutenberg.org/2009/agents/5072
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Blackmore
+description: "Date of origin 1716\r\nCommentary by Addison from Freeholder, No. 45,\
+  \ 1716"
+gutenberg_issued: '2004-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13484'
+  lccn: '48004102'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1946'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 01
+subjects:
+- !lcsh 'Wit and humor'
+- !lcc 'PR'
+title: Essay upon Wit
+url: http://www.gutenberg.org/ebooks/13484
