@@ -28,6 +28,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Richard_Blackmore
 description: "Date of origin 1716\r\nCommentary by Addison from Freeholder, No. 45,\
   \ 1716"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13484#Essay-upon-Wit
 gutenberg_issued: '2004-09-17'
 gutenberg_type: Text
 identifiers:
